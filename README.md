@@ -30,6 +30,6 @@ This project analyzes Diwali sales data to identify customer purchasing patterns
 
 Data Collection → Data Cleaning → Exploratory Data Analysis → Visualization → Business Insights
 
-## Screenshot
+## Dashboard Preview
 
-![Dashboard](demo.png)
+![Diwali Sales Dashboard](dashboard.png)
